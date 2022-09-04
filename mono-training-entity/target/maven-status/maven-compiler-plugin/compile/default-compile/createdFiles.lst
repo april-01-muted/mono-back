@@ -1,0 +1,3 @@
+com\example\infra\jpa\BaseEntityListener.class
+com\example\entity\infra\jpa\CustomReverseEngineeringStrategy.class
+com\example\infra\jpa\BaseEntity.class
